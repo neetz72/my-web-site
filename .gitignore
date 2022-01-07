@@ -1,0 +1,6 @@
+.idea
+
+# we dont want this - files specific to computer and ide
+
+*.iml
+
